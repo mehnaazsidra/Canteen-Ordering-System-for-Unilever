@@ -1,6 +1,6 @@
 # Canteen-Ordering-System-for-Unilever Business case
 
-Overview and Summary
+# Overview and Summary
 
 Unilever is a British-Dutch MNC FMCG company, headquartered in London, England. Unilever is one of the oldest FMCG companies, and its products are available in around 190 countries. In its UK offices, Unilever had around 1500 employees which were spread across 12 floors. They had 2 canteens to cater to these 1500 employees. Each canteen could seat around 150 employees at a time. 
 
@@ -37,7 +37,7 @@ We are going to be creating and maintaining the program in Java. We chose Java b
  
 Business Objectives and Success Criteria
 
-Business Objective 1:
+# Business Objective 1:
 
 Reduce canteen food wastage by a minimum of 30% within 6 months following first release.
 
@@ -47,15 +47,15 @@ Previous - 25% wasted
 
 Must plan for: Less than 15%
 
-Business Objective 2:
+# Business Objective 2:
 
 Reduce canteen operating costs by 15% within 12 months, following initial release.
 
-Business Objective 3:
+# Business Objective 3:
 
 Increase average effective work time by 30 minutes per employee per day, within 3 months.
 
-Business Objective 4:
+# Business Objective 4:
 
 By making the ordering process automated and by delivering the food to the user's workstation, the canteen will be able to operate with lesser manpower.
 
@@ -63,7 +63,7 @@ Future State
 
  
 
-Client has given them the following requirements:
+# Client has given them the following requirements:
 
  
 
@@ -103,7 +103,7 @@ Order forecasting i.e. a prediction of which items will be ordered and when they
 
  
 
-System Requirement:
+# System Requirement:
 
 Scalability and performance:
 
@@ -111,7 +111,7 @@ This canteen ordering system is required to support a volume of 1500 employees o
 
  
 
-Usability:
+# Usability:
 
 The screens should be self-explanatory and very user friendly. Management would not want employees not ordering from the system as they cannot understand the screens and data fields on screen.
 
